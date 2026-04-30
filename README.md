@@ -14,4 +14,5 @@ To run these scripts, you will need:
 - Packages: `tidyverse`, `haven`, `ggplot2`
 
 ## Contact
-Shirish Maharjan - HERD International
+Shirish Maharjan - HERD International 
+- shirish.maharjan@herdint.com
